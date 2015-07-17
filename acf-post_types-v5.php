@@ -131,7 +131,7 @@ class acf_field_post_types extends acf_field {
 	function render_field( $field ) {
 
 		// convert value to array
-		$field['value'] = acf_force_type_array($field['value']);
+		$field['value'] = (array) $field['value'];
 		
 		
 		// add empty value (allows '' to be selected)
