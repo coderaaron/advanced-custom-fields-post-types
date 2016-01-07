@@ -4,7 +4,7 @@
 Plugin Name: Advanced Custom Fields: Post Types
 Plugin URI: PLUGIN_URL
 Description: Add a dropdown to select a post type
-Version: 1.0.0
+Version: 1.0.1
 Author: Aaron Graham
 Author URI: https://medicine.wustl.edu
 License: GPLv2 or later
